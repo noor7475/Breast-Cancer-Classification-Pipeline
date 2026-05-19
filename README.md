@@ -1,4 +1,4 @@
-# Breast-Cancer-Classifier
+# Breast-Cancer-Classification-Pipeline
 
 ## Overview
 
